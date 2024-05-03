@@ -31,6 +31,7 @@ Now you tab will change to this:
 
 You can use "Go to EndNote Online" to access the references you saved. 
 
+## Insert citations in Word
 
 ![image](https://github.com/CHWR-NCSTATE/Reference/assets/10136512/a332b2f6-b6ad-403b-aa0f-5231c636b7a8)
 
