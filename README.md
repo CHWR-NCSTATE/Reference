@@ -35,5 +35,12 @@ You can use "Go to EndNote Online" to access the references you saved.
 
 ![image](https://github.com/CHWR-NCSTATE/Reference/assets/10136512/a332b2f6-b6ad-403b-aa0f-5231c636b7a8)
 
+Just a simple search as example: 
+
 ![image](https://github.com/CHWR-NCSTATE/Reference/assets/10136512/f1bb5c0b-9b50-4def-ac64-2f74dfcb7958)
+
+
+This is how it get done! 
+
+![image](https://github.com/CHWR-NCSTATE/Reference/assets/10136512/738e3e85-0c13-496f-9c82-bf66fb8f4092)
 
