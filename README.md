@@ -16,3 +16,6 @@ Once you signed in, you will see
 Note: you can still install it enve you didn't buy Endnote!
 
 ![image](https://github.com/CHWR-NCSTATE/Reference/assets/10136512/5e6f8e9d-c0b7-4c3b-9fc1-ee193061b822)
+
+Once you installed it, you will see the Endnote Tab in Word:
+![image](https://github.com/CHWR-NCSTATE/Reference/assets/10136512/ae751468-fa39-403e-b51d-39cbfbaf03a9)
