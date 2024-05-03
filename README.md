@@ -20,7 +20,9 @@ Note: you can still install it enve you didn't buy Endnote!
 Once you installed it, you will see the Endnote Tab in Word:
 ![image](https://github.com/CHWR-NCSTATE/Reference/assets/10136512/ae751468-fa39-403e-b51d-39cbfbaf03a9)
 
-Now click Preferences, then go to Application, swith Endnote to Endnote Online
+Now click Preferences, then go to Application, swith Endnote to Endnote Online.
+Note: if you bought Endnote or have access, this is not needed. 
+
 ![image](https://github.com/CHWR-NCSTATE/Reference/assets/10136512/38c5f94f-d299-431a-a43b-f8e79ba01d29)
 
 
