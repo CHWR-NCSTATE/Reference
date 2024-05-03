@@ -30,3 +30,9 @@ Now you tab will change to this:
 ![image](https://github.com/CHWR-NCSTATE/Reference/assets/10136512/caf27496-d8e1-4ec9-8b3c-973f8317a1b2)
 
 You can use "Go to EndNote Online" to access the references you saved. 
+
+
+![image](https://github.com/CHWR-NCSTATE/Reference/assets/10136512/a332b2f6-b6ad-403b-aa0f-5231c636b7a8)
+
+![image](https://github.com/CHWR-NCSTATE/Reference/assets/10136512/f1bb5c0b-9b50-4def-ac64-2f74dfcb7958)
+
