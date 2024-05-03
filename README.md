@@ -12,5 +12,7 @@ Once you signed in, you will see
 ![image](https://github.com/CHWR-NCSTATE/Reference/assets/10136512/b2fd43a8-f455-4abe-852d-0e9e3f6fbe1d)
 
 
+## Using Cite While You Write™
+Note: you can still install it enve you didn't buy Endnote!
 
-
+![image](https://github.com/CHWR-NCSTATE/Reference/assets/10136512/5e6f8e9d-c0b7-4c3b-9fc1-ee193061b822)
