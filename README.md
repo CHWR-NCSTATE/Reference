@@ -25,4 +25,8 @@ Note: if you bought Endnote or have access, this is not needed.
 
 ![image](https://github.com/CHWR-NCSTATE/Reference/assets/10136512/38c5f94f-d299-431a-a43b-f8e79ba01d29)
 
+Now you tab will change to this:
 
+![image](https://github.com/CHWR-NCSTATE/Reference/assets/10136512/caf27496-d8e1-4ec9-8b3c-973f8317a1b2)
+
+You can use "Go to EndNote Online" to access the references you saved. 
